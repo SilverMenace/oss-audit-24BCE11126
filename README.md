@@ -199,11 +199,11 @@ oss-audit/
 │── script4.sh
 │── script5.sh
 │── README.md
-│── script1.jpeg
-│── script2.jpeg
-│── script3.jepg
-│── script4.jpeg
-│── script5.jpeg
+│── script1.png
+│── script2.png
+│── script3.png
+│── script4.png
+│── script5.png
 ```
 
 ---
